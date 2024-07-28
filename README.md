@@ -1,5 +1,5 @@
 # leaflet-challenge
-This is for the homework 15 of the bootcamp
+This is for the homework 15 of the bootcamp.
 This project is an interactive visualization of earthquake data using Leaflet and D3.js. The data is obtained from the USGS (United States Geological Survey) and displayed on a map with different colors and sizes according to the depth and magnitude of the earthquakes.
 
 ## Description
